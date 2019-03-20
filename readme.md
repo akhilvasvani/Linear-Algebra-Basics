@@ -88,6 +88,8 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 
 Thank you (https://hadrienj.github.io) for your wonderful illustrations, figures, diagrams and findings.
 
+Thank you Aerin Kim (https://towardsdatascience.com/@aerinykim) for your intuition and findings.
+
 # PDF Textbooks
 
 [Fat, Square, and Thin Matrices - Number of Solutions to Systems of Linear Equations](http://www-users.math.umn.edu/~moham189/docs/Spring_2016/Fat,%20Square%20and%20Thin%20Matrices/Fat_Square_Thin_Matrices_Systems_of_Equations.pdf)
