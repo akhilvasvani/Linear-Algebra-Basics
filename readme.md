@@ -82,7 +82,7 @@ This content is aimed at beginners but it should be easier for people with at le
 
 # Enjoy
 
-Please let me konw if you find any typos or incorrect information. I am happy to edit it. You can send me emails or open issues and pull request in the notebooks Github.
+Please let me know if you find any typos or incorrect information. I am happy to edit it. You can send me emails or open issues and pull request in the notebooks Github.
 
 # References
 
