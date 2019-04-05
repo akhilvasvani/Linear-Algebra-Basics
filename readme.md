@@ -10,11 +10,11 @@ The goal of this series is to provide content for beginners who wants to underst
 
 Graphical representation is also very helpful to understand linear algebra. I tried to bind the concepts with plots (and code to produce it). The type of representation I liked most by doing this series is the fact that you can see any matrix as linear transformation of the space. In several chapters we will extend this idea and see how it can be useful to understand eigendecomposition, Singular Value Decomposition (SVD) or the Principal Components Analysis (PCA).
 
-# The use of Python/Numpy
+# The use of Python/NumPy
 
 In addition, creating and reading examples is really helpful to understanding the theory. The goal is two folds:
 
-1. To provide a starting point to use Python/Numpy to apply linear algebra concepts. And since the final goal is to use linear algebra concepts for data science it seems natural to continuously go between theory and code. All you will need is a working Python installation with major mathematical librairies like Numpy/Scipy/Matplotlib.
+1. To provide a starting point to use Python/NumPy to apply linear algebra concepts. And since the final goal is to use linear algebra concepts for data science it seems natural to continuously go between theory and code. All you will need is a working Python installation with major mathematical librairies like NumPy/SciPy/matplotlib.
 
 2. Give a more concrete vision of the underlying concepts. I found hugely useful to play and experiment with these notebooks in order to build my understanding of somewhat complicated theoretical concepts or notations. I hope that reading them will be as useful.
 
