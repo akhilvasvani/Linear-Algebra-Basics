@@ -76,6 +76,8 @@ Added in Projection example with a diagram detailing how it works.
 
 Added in Low-Rank Matrix Approximation. Useful when SVD cannot be used for LARGE datasets.
 
+Also TensorFlow has [linear algebra operations](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/python/ops/linalg) as well.
+
 # Requirements
 
 This content is aimed at beginners but it should be easier for people with at least some experience with mathematics.
