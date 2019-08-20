@@ -99,3 +99,5 @@ Thank you Aerin Kim (https://towardsdatascience.com/@aerinykim) for your intuiti
 [All Matrix Operations in Linear Algebra](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 [Simple Matrix Operations](https://web.ma.utexas.edu/users/sadun/S08/427K/matrix.pdf)
+
+[Stanford: Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
